@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24463645842",
+    "project_id": "discoverskardu-d30f0",
+    "storage_bucket": "discoverskardu-d30f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24463645842:android:8537ffb9540bfa3d361a4b",
+        "android_client_info": {
+          "package_name": "com.example.discoverskardu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24463645842-miufahf4k2i0tb32re2sq8ger9g0c84g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWefSZppTpirjmt4I4zWeGsOw1M_NcYCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24463645842-miufahf4k2i0tb32re2sq8ger9g0c84g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
